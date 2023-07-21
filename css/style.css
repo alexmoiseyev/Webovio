@@ -14,7 +14,7 @@ a{
     overflow: hidden;
 }
 .header {
-    background: url("./sliders.jpg") no-repeat;
+    background: url("./slider.jpg") no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 189px;
@@ -191,7 +191,7 @@ a{
     text-decoration-line: underline;
 }
 .footer {
-    background: url("./background/bgrd.jpg");
+    background: url("./background/bgr.jpg");
 }
 .footer{
 }
